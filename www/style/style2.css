@@ -30,7 +30,16 @@ a:hover {
 }
 
 .logo {
-    width: 120px
+    /* bo viền 4 góc ảnh*/
+    border-radius: 50%;
+    width: 165px;
+    height: 150px;
+    margin: 0 auto;
+    background-color: #fff;
+    background-image: url(https://i.imgur.com/QQfXQQf.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .title {
